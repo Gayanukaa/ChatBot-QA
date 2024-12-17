@@ -5,3 +5,6 @@ langchain
 langchain_openai
 streamlit
 pytest
+pandas
+openpyxl
+pinecone-client
