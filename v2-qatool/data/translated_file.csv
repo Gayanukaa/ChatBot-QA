@@ -1,0 +1,39 @@
+Users,Do they know us?,Working situation our products,Do they have devices from other makers?,Challenges and issues,Future plans,Introduce Techno Horizon
+,,,,,,Needs identification
+Sanyo Denki (Mt. Fuji Factory),〇,3 AOI units in operation,Mounter YAMAHA 3 units,New Work Program,Available from the year after next,Interested in AI
+,,,,"Hard to make, slow program call",,Possible soldering
+Cowbell Engineer,〇,2 SPIs in operation,Mounter YAMAHA 2 units,No problem,AOI is a possibility,
+Panasonic (Yamagata Factory),×,2 AOI units in operation,Mounter 4 units,SAKI is hard to use,There are plans to expand the line,I want to manage it using QR codes.
+,,,AOI SAKI 3 units,I want to manage traceability,,
+Mtex Matsumura,×,Two handlers in operation,Handler 1 unit,No problem,none,X-rays use 2D
+NEC Network,〇,1 X-ray unit in operation,Mounter Pana 2 units,X-rays were expensive,none,
+,,,AOI YAMAHA 2 units,,,
+,,,SPI CKD 2 units,,,
+Celestica Japan,〇,2 AOI units in operation,Mounter 2 units,Coryon is hard to use,none,
+,,"AOI 1 unit, SPI 3 units (discarded)",AOI Ko-yon 2 units,Koh-yeon was hired at the direction of the top management.,,
+,,,SPI Co-Yon 2 units?,,,
+Asahi Electronics,〇,1 X-ray unit in operation,Mounter YAMAHA 6 units,CT scan Can you tilt to the left?,none,
+,,,AOI YAMAHA 6 units,,,
+Kunimi Media Devices,×,3 SPIs in operation,Mounter Pana 3 units,No problem,none,
+,,,AOI Omron 3 units,,,
+,,,X-ray OMRON 1 unit,,,
+Mitsubishi Communication,×,3 AOI units in operation,Mounter 3 units,Considering Omron's AOI,AOI etc. planned,
+,,,AOI 3 units,,Omron Leading,
+Kuwano Industry,〇,1 X-ray unit in operation,Mounter YAMAHA 1 unit,No problem,No plans,Interested in TC
+,,,AOI YAMAHA 1 unit,,,
+Nippon Special Industry,×,1 X-ray unit in operation,none,No problem,No plans,I'm interested in the 900s
+Miura Aquatec,×,2 SPIs in operation,Mounter JUKI 2 units,I was refused support during my time at Nagoya Denki,none,Interested in soldering
+,,,AOI Omron 1 unit,,,"Tabletop type, etc."
+Sekonic,×,1 X-ray machine destroyed,not clear,No problem,none,Introducing Kouki Tech Table Robot?
+sigma,△,4 AOI units in operation,AOI YAMAHA 1 unit,"When the pad mark function was required, Nagoya Denki said no",None for the time being,"YAMAHA, OMRON AOI"
+,,AOI 2 units idle,X-ray iBit 1 unit,,YAMAHA Replacement Caution,Noise problem
+Oki Electric,×,AOI 2 units destroyed,AOI YAMAHA 5 units,Changed to YAMAHA due to retirement of Nagoya Denki operator,none,Introducing Koki Tech
+Mitsubishi Electric Fukuyama,✕,2 AOI units discarded,"AOI JUKI 6 units,",JUKI: Poor inspection accuracy for solder amount and lifting,none,
+,,,　　Rexam 1 unit,　　　The solder is shiny and hard to see.,,
+,,,,　　　Inspection standards vary depending on the worker.,,
+Koshin Electric,✕,2 AOI units discarded,AOI YAMAHA 2 units,"There were many defects (horns, bridges) with the iron type, so we introduced a laser to improve them.",none,Iron (Tsutsumi Electric) x 12 units
+,,,,,,Laser (JU) x 1
+Sanwa Electronics,✕,Three AOI units in operation,AOI YAMAHA 5 units,,NLB-SX (3D machine) → Omron (modified 3D machine to 2D machine),We are currently hiring
+,,,"2 Marantz, 1 Miltec",,,
+Advanet,✕,AOI 1 unit scrapped,AOI YAMAHA 1 unit,,AOI possible,Iron (white light)
+,,One X-ray machine in operation,UH system x 1,,,Selective (Osaka Asahi Electronics)

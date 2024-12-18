@@ -8,3 +8,5 @@ pytest
 pandas
 openpyxl
 pinecone-client
+ipywidgets
+datasets
