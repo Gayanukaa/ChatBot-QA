@@ -1,14 +1,5 @@
 # AI-Powered Chatbot Platform
 
-This project is an AI-powered chatbot using FastAPI, Azure OpenAI, LangChain, and Streamlit for Q&A capabilities.
-
-## Features
-
-- FastAPI for the backend API.
-- Streamlit for frontend visualization.
-- Azure OpenAI for generating responses.
-- LangChain for building conversational pipelines.
-
 ## How to Run
 
 1. Install dependencies: `pip install -r requirements.txt`.
